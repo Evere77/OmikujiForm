@@ -13,7 +13,7 @@
 <body>
     <div class="container text-center">
         <h1 class="mt-4">Here's Your Omikuji!</h1>
-        <h2 class="mt-5">In ${number} years, you will live in ${city} with ${person} as your roommate, ${info} for a living. The next time you see a ${living}, you will have good luck. Also, ${nice}</h2>
+        <h2 class="mt-5 bg-info">In ${number} years, you will live in ${city} with ${person} as your roommate, ${info} for a living. The next time you see a ${living}, you will have good luck. Also, ${nice}</h2>
         <a href="/omikuji">Go Back</a>
     </div>
 </body>
